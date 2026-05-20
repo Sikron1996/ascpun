@@ -1,5 +1,5 @@
 // Встав сюди адресу контракту після deploy
-const CONTRACT_ADDRESS = "PASTE_CONTRACT_ADDRESS_HERE";
+const CONTRACT_ADDRESS = "0xbE117E1d7332f1834afe826c2069d9499aC1Eef6";
 
 const ABI = [
   "function mint(uint256 amount) external payable",
